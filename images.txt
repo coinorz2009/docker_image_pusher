@@ -1,3 +1,19 @@
+--platform=linux/arm64 canal/canal-server:v1.1.7
+java0803/canal-server:v2
+
+--platform=linux/amd64 pachyderm/etcd:v3.5.12
+--platform=linux/arm64/v8 pachyderm/etcd:v3.5.12
+
+--platform=linux/amd64 bitnami/etcd:3.4.33
+
+--platform=linux/amd64 ubuntu/prometheus:2.50.1-22.04
+
+--platform=linux/amd64 nacos/nacos-server:v2.3.2-slim
+--platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
+
+--platform=linux/amd64 apache/skywalking-ui:10.0.1
+--platform=linux/arm64 apache/skywalking-ui:10.0.1
+
 --platform=linux/amd64 dannicool/docker-wechatbot-webhook:latest
 --platform=linux/arm64 dannicool/docker-wechatbot-webhook:latest
 
