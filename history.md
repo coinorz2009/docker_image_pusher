@@ -1,4 +1,16 @@
 
+--platform=linux/amd64 manictime/manictimeserver:2024.1.2
+--platform=linux/arm64 manictime/manictimeserver:2024.1.2
+
+--platform=linux/amd64 portainer/portainer-ce:2.20.3-alpine
+--platform=linux/arm64 portainer/portainer-ce:2.20.3-alpine
+
+--platform=linux/amd64 emqx/emqx:5.7.2
+--platform=linux/arm64 emqx/emqx:5.7.2
+
+--platform=linux/amd64 adminer:4.8.0-standalone
+--platform=linux/arm64/v8 adminer:4.8.0-standalone
+
 --platform=linux/amd64 emqx/emqx:5.6.1
 --platform=linux/arm64 emqx/emqx:5.6.1
 
