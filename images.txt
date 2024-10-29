@@ -1,2 +1,5 @@
 --platform=linux/amd64 jc21/nginx-proxy-manager:2
 --platform=linux/arm64 jc21/nginx-proxy-manager:2
+
+--platform=linux/amd64 gitea/gitea:1.22-nightly
+--platform=linux/arm64 gitea/gitea:1.22-nightly
