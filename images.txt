@@ -1,2 +1,4 @@
+--platform=linux/amd64 sentry:9.1.2
+
 --platform=linux/amd64 wojiushixiaobai/dataease:v2.9.0
 --platform=linux/arm64 wojiushixiaobai/dataease:v2.9.0
