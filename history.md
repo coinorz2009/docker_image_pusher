@@ -1,3 +1,9 @@
+--platform=linux/amd64 jc21/nginx-proxy-manager:2
+--platform=linux/arm64 jc21/nginx-proxy-manager:2
+
+--platform=linux/amd64 gitea/gitea:1.22-nightly
+--platform=linux/arm64 gitea/gitea:1.22-nightly
+
 
 --platform=linux/amd64 manictime/manictimeserver:2024.1.2
 --platform=linux/arm64 manictime/manictimeserver:2024.1.2
