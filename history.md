@@ -1,3 +1,21 @@
+--platform=linux/amd64 allinssl/allinssl:1.0.5
+--platform=linux/arm64 allinssl/allinssl:1.0.5
+
+--platform=linux/amd64 n8nio/n8n:1.97.1
+--platform=linux/arm64 n8nio/n8n:1.97.1
+
+--platform=linux/amd64 cooderl/wewe-rss:v2.6.1
+--platform=linux/arm64 cooderl/wewe-rss:v2.6.1
+
+--platform=linux/amd64 cooderl/wewe-rss-sqlite:v2.6.1
+--platform=linux/arm64 cooderl/wewe-rss-sqlite:v2.6.1
+
+--platform=linux/amd64 wojiushixiaobai/dataease:v2.9.0
+--platform=linux/arm64 wojiushixiaobai/dataease:v2.9.0
+
+
+
+
 --platform=linux/amd64 jc21/nginx-proxy-manager:2
 --platform=linux/arm64 jc21/nginx-proxy-manager:2
 
